@@ -8,12 +8,12 @@
 
     <div class="collapse navbar-collapse" id="mainNavbar">
         <ul class="navbar-nav mr-auto">
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.main }} 
             <li class="nav-item">
-                <a class="nav-link" href="/research">Research</a>
+                <a class="nav-link {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active {{ end }}" href="{{ .URL }}">{{ .Name }}</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/posts">Blog</a>
-            </li>
+            {{ end }}
         </ul>
         <ul class="navbar-nav ml-auto">
             <li class="nav-item">
