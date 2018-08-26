@@ -1,17 +1,22 @@
 {{ define "main" }}
-<div class="container" style="padding-top:70px">
+<main>
+<div class="container" style="padding-top:70px; padding-bottom:20px">
     <div class="row">
-        <div class="col-sm">
-            <main>
-                <header>
-                    <h1>{{ .Title }}</h1>
-                </header>
-                <div class="content">
-                    {{ .Content }}
-                </div>
-            </main>
+        <div class="col-sm-8">
+            <header>
+                <h1>{{ .Title }}</h1>
+            </header>
+            <div class="content">
+                {{ .Content }}
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <img src="/me.jpg" style="max-width:80%" 
+                 class="rounded mx-auto d-block img-fluid"
+                 alt="a picture of me">
         </div>
     </div>
 </div>
+</main>
 {{ end }}
 
