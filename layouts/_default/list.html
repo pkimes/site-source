@@ -1,38 +1,36 @@
 {{ define "main" }}
 <main>
-    <div class="container" style="padding-top:70px">
-        <div class="row">
-            <div class="col-sm">
-                <header>
-                    <h1>{{ .Title }}</h1>
-                </header>
+    <div class="row">
+        <div class="col-sm">
+            <header>
+                <h1>{{ .Title }}</h1>
+            </header>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm">
+            <div class="content">
+                {{ .Content }}
             </div>
         </div>
-        <div class="row">
-            <div class="col-sm">
-                <div class="content">
-                    {{ .Content }}
-                </div>
-            </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-8">
+            <ul class="contents">
+                {{ range .Paginator.Pages }}
+                <li>
+                    <a href="{{ .Permalink }}">
+                        {{- if not .Date.IsZero }}
+                        {{ .Date.Format "2006/01/02" }} |
+                        {{- end }}
+                        {{ .Title }}
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
         </div>
-        <div class="row">
-            <div class="col-sm-8">
-                <ul class="contents">
-                    {{ range .Paginator.Pages }}
-                    <li>
-                        <a href="{{ .Permalink }}">
-                            {{- if not .Date.IsZero }}
-                            {{ .Date.Format "2006/01/02" }} |
-                            {{- end }}
-                            {{ .Title }}
-                        </a>
-                    </li>
-                    {{ end }}
-                </ul>
-            </div>
-            <!-- <div class="col-sm-4">
-                 </div> -->
-        </div>
+        <!-- <div class="col-sm-4">
+             </div> -->
     </div>
 </main>
 {{ end }}

@@ -1,16 +1,18 @@
 {{ define "main" }}
-<div class="container" style="padding-top:70px">
+<main>
     <div class="row">
         <div class="col-sm">
-            <main>
-                <header>
-                    <h1>{{ .Title }}</h1>
-                </header>
-                <div class="content">
-                    {{ .Content }}
-                </div>
-            </main>
+            <header>
+                <h2>{{ .Title }}</h2>
+                {{- if not .Date.IsZero }}
+                <h6>{{ .Date.Format "2006/01/02" }}</h6>
+                {{- end }}
+            </header>
+            <hr/>
+            <div class="content">
+                {{ .Content }}
+            </div>
         </div>
     </div>
-</div>
+</main>
 {{ end }}
