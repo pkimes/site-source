@@ -1,0 +1,34 @@
+{{ define "main" }}
+<main>
+    <div class="row">
+        <div class="col-sm">
+            <header>
+                <h1>{{ .Title }}</h1>
+            </header>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm">
+            <div class="content">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-8">
+            <ul class="contents">
+                {{ range .Paginator.Pages }}
+                <li>
+                    <a href="{{ .Permalink }}">
+                        {{ .Title }}
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+        <!-- <div class="col-sm-4">
+             </div> -->
+    </div>
+</main>
+{{ end }}
+
