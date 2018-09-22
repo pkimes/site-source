@@ -1,4 +1,8 @@
-### Patrick Kosuke Kimes
+---
+title: "Curriculum Vitae"
+linkTitle: CV
+weight: 1
+---
 
 ---
 
