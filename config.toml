@@ -30,6 +30,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [languages.en]
   languageName = "English"
   weight = 1
-[languages.ja]
-  languageName = "日本語"
-  weight = 2
