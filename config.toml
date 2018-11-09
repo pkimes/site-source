@@ -1,4 +1,6 @@
-baseurl = "/"
+baseurl = "http://pkimes.github.io/"
+
+publishDir = "../pkimes.github.io"
 
 title = "pkimes"
 
