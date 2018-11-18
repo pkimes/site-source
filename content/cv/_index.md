@@ -47,7 +47,7 @@ weight: 1
 
 #### Software
 
-* `R/SummarizedBenchmark` [(companion site)](http://pkimes.com/SummarizedBenchmark), [(Bioconductor)](https://bioconductor.org/packages/devel/bioc/html/SummarizedBenchmark.html)
+* `R/SummarizedBenchmark` [(companion site)](http://www.pkimes.com/SummarizedBenchmark), [(Bioconductor)](https://bioconductor.org/packages/devel/bioc/html/SummarizedBenchmark.html)
   * Framework for benchmarking of methods.
 * `R/sigclust2` [(GitHub)](http://github.com/pkimes/sigclust2/)
   * Methods for assessing statistical significance in clustering.
