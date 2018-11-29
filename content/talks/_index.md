@@ -7,7 +7,7 @@ Slides from select research talks and tutorials. Presentations on this page are 
 
 ### Research
 
-- **Reproducible and replicable comparisons of methods controlling false discoveries in computational biology.** Workshop on Statistical/Computational Challenges in High-Throughput Genomics, BIRS/CMO. Oaxaca City, Oaxaca, Mexico. November 7, 2018.
+- [**Reproducible and replicable comparisons of methods controlling false discoveries in computational biology.**](https://www.birs.ca//cmo-workshops//2018/18w5202/files/Kimes_Patrick.pdf) Workshop on Statistical/Computational Challenges in High-Throughput Genomics, BIRS/CMO. Oaxaca City, Oaxaca, Mexico. November 7, 2018.
 - **Statistical significance for hierarchical cluster.** Journal Club, International Biometrics Society. web-based. June 15, 2017.
 
 ---
