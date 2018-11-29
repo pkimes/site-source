@@ -51,3 +51,8 @@ weight: 1
   * Framework for benchmarking of methods.
 * `R/sigclust2` [(GitHub)](http://github.com/pkimes/sigclust2/)
   * Methods for assessing statistical significance in clustering.
+
+---
+
+[<i class="fa fa-file-pdf"></i>: CV as PDF](https://www.dropbox.com/s/cbtkt5r5panpl4s/pkimes-cv.pdf?dl=0)
+
