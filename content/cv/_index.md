@@ -32,7 +32,7 @@ weight: 1
 * **Graduate Research Assistant** <span style="float:right">**January 2012 - May 2015**</span>
   * _Lineberger Comprehensive Cancer Center_ <span style="float:right">Chapel Hill, NC</span>
 * **Network Pharmacology Intern** <span style="float:right">**June 2014 - August 2014**</span>
-  * _Janessen Research \& Development (Johnson \& Johnson)_ <span style="float:right">Spring House, PA</span>
+  * _Janssen Research \& Development (Johnson \& Johnson)_ <span style="float:right">Spring House, PA</span>
 
 #### Select Publications
 
