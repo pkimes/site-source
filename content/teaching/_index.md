@@ -7,6 +7,7 @@ Slides from select research talks and tutorials. Presentations on this page are 
 
 ### Courses/Workshops
 
+- [**Public Health 101 Series: Introduction to Public Health.**](https://curriculumfellows.hms.harvard.edu/classes/public-health-101) Nanocourse, Harvard Medical School. March 2020.
 - [**HST953: Collaborative Data Science in Medicine.**](https://criticaldata.mit.edu/course/) [(slides for p-value lecture)](https://speakerdeck.com/pkimes/hst953-pvalues) MIT Critical Data, MIT. Fall 2019.
 - [**Drug Sensitivity Replicathon.**](https://pkimes.github.io/PR2019replicathon/) [(slides)](https://speakerdeck.com/pkimes/20190712-iqbio) [IQ BIO REU](http://iqbioreu.uprrp.edu/index.php/program/), University of Puerto Rico, Río Piedras. June 2019.
 - [**BST260: Introduction to Data Science.**](http://datasciencelabs.github.io/datasciencelabs.github.io-2017/) [(GitHub repo)](https://github.com/datasciencelabs/2017) Biostatistics, Harvard T. H. Chan School of Public Health. Fall 2017.
