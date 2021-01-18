@@ -32,3 +32,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [languages.en]
   languageName = "English"
   weight = 1
+
+# allow raw html
+[markup.goldmark.renderer]
+  unsafe = true
