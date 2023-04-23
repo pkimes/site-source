@@ -6,11 +6,10 @@ weight: 1
 
 ---
 
-* **Postdoctoral Research Fellow** <span style="float:right">**June 2017 - Present**</span>
-  * [_Data Sciences, Dana-Farber Cancer Institute_](http://ds.dfci.harvard.edu/) <span style="float:right">Boston, MA</span>
-  * [_Biostatistics, Harvard T. H. Chan School of Public Health_](https://www.hsph.harvard.edu/biostatistics/)
-  * Mentor: [Rafael Irizarry](http://rafalab.org)
-
+* [**Genentech, Inc.**](https://www.gene.com/) <span style="float:right">**South San Francisco, CA**</span>
+  * _Principal Statistical Scientist_ <span style="float:right">October 2022 - Present</span>
+  * _Senior Statistical Scientist_ <span style="float:right">November 2020 - September 2022</span>
+  
 ---
 
 #### Education
@@ -22,11 +21,11 @@ weight: 1
   * [_Pomona College_](http://pomona.edu) <span style="float:right">Claremont, CA</span>
   * Advisor: [Jo Hardin](https://research.pomona.edu/johardin/)
   
-#### Professional Experience
+#### Prior Work
 
-* **Postdoctoral Research Fellow** <span style="float:right">**June 2017 - Present**</span>
-  * _Data Sciences, Dana-Farber Cancer Institute_ <span style="float:right">Boston, MA</span>
-  * _Biostatistics, Harvard T.H. Chan School of Public Health_
+* **Postdoctoral Fellow, Data Sciences** <span style="float:right">**June 2017 - October 2020**</span>
+  * [_Dana-Farber Cancer Institute_](https://ds.dfci.harvard.edu/) <span style="float:right">Boston, MA</span><!--  * [_Biostatistics, Harvard T.H. Chan School of Public Health_](https://www.hsph.harvard.edu/biostatistics/) -->
+  * Mentor: [Rafael Irizarry](http://rafalab.org)
 * **Principal Scientist, Bioinformatics** <span style="float:right">**June 2015 - April 2017**</span>
   * _Roche Sequencing_ <span style="float:right">Pleasanton, CA</span>
 * **Graduate Research Assistant** <span style="float:right">**January 2012 - May 2015**</span>
@@ -40,6 +39,8 @@ weight: 1
 \*: _joint first author._  
 &dagger;: _as TCGA Research Network._  
 
+* Schröfelbauer B, Kimes PK, Hauke P, Reid CE, Shao K, Hill SJ, Irizarry R, Hahn WC. (2023). [Discovery of antibodies and cognate surface targets for ovarian cancer by surface profiling.](https://www.pnas.org/doi/abs/10.1073/pnas.2206751120) _Proceedings of the National Academy of Sciences_.
+Korthauer K\*, **Kimes PK\***, Duvallet C, Reyes A, Subramanian A, Teng M, Shukla C, Alm EJ and Hicks SC. (2019). [A practical guide to methods controlling false discoveries in computational biology.](https://doi.org/10.1186/s13059-019-1716-1) _Genome Biology_.
 * Korthauer K\*, **Kimes PK\***, Duvallet C, Reyes A, Subramanian A, Teng M, Shukla C, Alm EJ and Hicks SC. (2019). [A practical guide to methods controlling false discoveries in computational biology.](https://doi.org/10.1186/s13059-019-1716-1) _Genome Biology_.
 * **Kimes PK\*** and Reyes A\*. (2018). [Reproducible and replicable comparisons using SummarizedBenchmark.](https://www.ncbi.nlm.nih.gov/pubmed/30016409) _Bioinformatics_. 
 * VanDussen KL, Stojmirović A, Li K, Liu TC, **Kimes PK**, Muegge BD, Simpson KF, Ciorba MA, Perrigoue JG, Friedman JR, Towne JE, Head RD, Stappenbeck TS. (2018). [Abnormal small intestinal epithelial microvilli in patients with Crohn's disease.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6378688/) _Gastroenterology_.
@@ -55,8 +56,9 @@ weight: 1
 * The Cancer Genome Atlas Research Network.&dagger; (2015). [Comprehensive genomic characterization of head and neck squamous cell carcinomas.](https://www.ncbi.nlm.nih.gov/pubmed/25631445) _Nature_.
 * The Cancer Genome Atlas Research Network.&dagger; (2014). [Comprehensive molecular profiling of lung adenocarcinoma.](https://www.ncbi.nlm.nih.gov/pubmed/25079552) _Nature_.
 
-##### Proceedings
+##### Proceedings/Abstracts
 
+* Herrera AF, McCord R, **Kimes P**, et al. (2022). [Risk Profiling of Patients with Previously Untreated Diffuse Large B-Cell Lymphoma (DLBCL) by Measuring Circulating Tumor DNA (ctDNA): Results from the POLARIX Study.](https://ashpublications.org/blood/article/140/Supplement%201/1297/490222) _Blood_. _(selected for oral presentation at ASH 2022)_
 * VanDussen K, Li K, Stojmirović A, Liu T, **Kimes PK**, Perrigoue J, Friedman J, Towne J, Head R, Stappenbeck T. (2018) [P050: Enterocyte microvillus length and associated gene expression are reduced in Crohn’s disease.](https://academic.oup.com/ecco-jcc/article/12/supplement_1/S117/4807629) _Journal of Crohn's and Colitis_. (Abstracts of the 13th Congress of ECCO).
 * Ko YH, Walter V, Catalano M, Yin X, **Kimes PK**, Xiao X, and Hayes DN. (2015). [Abstract 4007: Integrative analysis of miRNAs classify two distinct stages of epithelial cell differentiation in head and neck squamous cell carcinoma (HNSCC).](https://cancerres.aacrjournals.org/content/75/15_Supplement/4007) _Cancer Research_. (Proceedings: AACR 106th Annual Meeting 2015)
 
@@ -68,8 +70,4 @@ weight: 1
   * Framework for benchmarking of methods.
 * `R/sigclust2` [(GitHub)](http://github.com/pkimes/sigclust2/)
   * Methods for assessing statistical significance in clustering.
-
----
-
-[<i class="fa fa-file-pdf"></i>: CV as PDF](https://www.dropbox.com/s/uctl0vlrpqj5a6y/pkimes-cv.pdf?dl=0)
 
